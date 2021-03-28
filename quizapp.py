@@ -19,7 +19,7 @@ options = [['$', '//', '/*...*/', '#'],
            ['list', 'bool', 'str', 'int'],
            ['List is mutable & Tuple is immutable', 'List is immutable & Tuple is mutable', 'Both are Mutable',
             'Both are Immutable'],
-           ['a', 'b', 'c', 'd', 'e']
+           ['a', 'b', 'c', 'd']
            ]
 
 a = [4, 2, 4, 3, 1, 4]
